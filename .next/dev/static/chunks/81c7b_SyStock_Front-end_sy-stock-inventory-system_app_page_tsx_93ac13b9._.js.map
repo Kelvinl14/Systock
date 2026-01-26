@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/ko762/OneDrive/%C3%81rea%20de%20Trabalho/SyStock/Front-end/sy-stock-inventory-system/app/page.tsx"],"sourcesContent":["\"use client\"\n\nimport { useEffect } from \"react\"\nimport { useRouter } from \"next/navigation\"\n\nexport default function Home() {\n  const router = useRouter()\n\n  useEffect(() => {\n    const token = localStorage.getItem(\"token\")\n    if (token) {\n      router.push(\"/dashboard\")\n    } else {\n      router.push(\"/login\")\n    }\n  }, [router])\n\n  return null\n}\n"],"names":[],"mappings":";;;;AAEA;AACA;;AAHA;;;AAKe,SAAS;;IACtB,MAAM,SAAS,IAAA,sPAAS;IAExB,IAAA,8QAAS;0BAAC;YACR,MAAM,QAAQ,aAAa,OAAO,CAAC;YACnC,IAAI,OAAO;gBACT,OAAO,IAAI,CAAC;YACd,OAAO;gBACL,OAAO,IAAI,CAAC;YACd;QACF;yBAAG;QAAC;KAAO;IAEX,OAAO;AACT;GAbwB;;QACP,sPAAS;;;KADF"}}]
+}
