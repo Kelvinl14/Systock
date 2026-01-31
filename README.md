@@ -194,12 +194,18 @@ O Systock foi desenvolvido com os seguintes objetivos:
 
 ---
 
-## 12. Autor
+## 12. Autores
 
-**Kelvyn Leôncio Andrade Lima**
-- Desenvolvedor Full Stack
-**Guilherme Lima**
-- Engenharia e análise até ciência de dados e IA/ML
-**Everson Borges Mota**
-- Desenvolvedor Fullstack, com ênfase em Java, Spring Boot
+#### **Kelvyn Leôncio Andrade Lima** 
+* Desenvolvedor Full Stack
+* Responsável pelo front-end e pela [API Systock](https://github.com/Kelvinl14/CuraSys-pro-API)
+#### **Guilherme Lima**
+* Engenharia e análise até ciência de dados e IA/ML
+* Responsável pelo [Data Warehouse and ETL for Inventory & Sales Analytics](https://github.com/Guilherme450/Systock)
+#### **Everson Borges Mota**
+* Desenvolvedor Fullstack, com ênfase em Java, Spring Boot
+* Responsável pela [SyStock Analytics API](https://github.com/eversonmot4/Systock-analytics-api)
+#### **Diego**
+* Responsável pela documentação
+  
 Projeto desenvolvido para fins acadêmicos e portfólio profissional.
