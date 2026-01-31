@@ -197,5 +197,9 @@ O Systock foi desenvolvido com os seguintes objetivos:
 ## 12. Autor
 
 **Kelvyn Leôncio Andrade Lima**
-Desenvolvedor Full Stack
+- Desenvolvedor Full Stack
+**Guilherme Lima**
+- Engenharia e análise até ciência de dados e IA/ML
+**Everson Borges Mota**
+- Desenvolvedor Fullstack, com ênfase em Java, Spring Boot
 Projeto desenvolvido para fins acadêmicos e portfólio profissional.
